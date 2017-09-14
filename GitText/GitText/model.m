@@ -15,4 +15,7 @@
 
 }
 
+- (void)setAge:(NSString *)age{
+
+}
 @end
