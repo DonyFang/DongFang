@@ -10,4 +10,7 @@
 
 @interface model : NSObject
 
+
+@property(nonatomic,readwrite,copy)NSString *name;
+
 @end
