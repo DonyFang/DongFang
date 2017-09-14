@@ -14,6 +14,7 @@
 @property(nonatomic,readwrite,copy)NSString *name;
 
 @property(nonatomic,readwrite,copy)NSString *age;
+@property(nonatomic,readwrite,copy)NSString *gender;
 
 
 @end
