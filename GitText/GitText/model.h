@@ -21,4 +21,8 @@
 
 @property(nonatomic,readwrite,copy)NSString *homePlace;
 
+
+@property(nonatomic,readwrite,copy)NSString *lastTime;
+
+
 @end
