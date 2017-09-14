@@ -16,5 +16,6 @@
 @property(nonatomic,readwrite,copy)NSString *age;
 @property(nonatomic,readwrite,copy)NSString *gender;
 
+@property(nonatomic,readwrite,copy)NSString *schollHomeWork;
 
 @end
