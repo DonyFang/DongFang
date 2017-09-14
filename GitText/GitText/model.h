@@ -25,4 +25,8 @@
 @property(nonatomic,readwrite,copy)NSString *lastTime;
 
 
+@property(nonatomic,readwrite,copy)NSString *lastCHange;
+
+
+
 @end
