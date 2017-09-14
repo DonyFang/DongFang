@@ -10,4 +10,9 @@
 
 @implementation model
 
+-(void)setName:(NSString *)name{
+
+
+}
+
 @end
