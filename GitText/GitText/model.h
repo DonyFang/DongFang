@@ -18,4 +18,7 @@
 
 @property(nonatomic,readwrite,copy)NSString *schollHomeWork;
 
+
+@property(nonatomic,readwrite,copy)NSString *homePlace;
+
 @end
