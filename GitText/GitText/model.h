@@ -27,6 +27,9 @@
 
 @property(nonatomic,readwrite,copy)NSString *lastCHange;
 
+@property(nonatomic,readwrite,copy)NSString *dddd;
+
+
 
 
 @end
