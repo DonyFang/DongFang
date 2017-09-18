@@ -11,26 +11,5 @@
 @interface model : NSObject
 
 
-@property(nonatomic,readwrite,copy)NSString *name;
-
-@property(nonatomic,readwrite,copy)NSString *age;
-@property(nonatomic,readwrite,copy)NSString *gender;
-
-@property(nonatomic,readwrite,copy)NSString *schollHomeWork;
-
-
-@property(nonatomic,readwrite,copy)NSString *homePlace;
-
-
-@property(nonatomic,readwrite,copy)NSString *homePlacess;
-
-@property(nonatomic,readwrite,copy)NSString *lastTime;
-
-
-@property(nonatomic,readwrite,copy)NSString *lastCHange;
-@property(nonatomic,readwrite,copy)NSString *lastCHangesss;
-
-
-
 
 @end

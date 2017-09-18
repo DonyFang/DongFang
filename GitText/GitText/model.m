@@ -10,12 +10,4 @@
 
 @implementation model
 
--(void)setName:(NSString *)name{
-
-
-}
-
-- (void)setAge:(NSString *)age{
-
-}
 @end
